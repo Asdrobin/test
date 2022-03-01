@@ -1,8 +1,8 @@
 [
-{"place":"六福村","address": "xxx"},
+{"place":"sun","address": 11},
 {
-    "place":"劍湖山世界","address": "000"
+    "place":"mon","address": 22
 },
 {
-    "place":"義大遊樂世界","address": "***"
+    "place":"tus","address": 33
 }]
