@@ -1,0 +1,8 @@
+[
+    {"place":"sun","address": 11},
+    {
+        "place":"mon","address": 22
+    },
+    {
+        "place":"tus","address": 33
+    }]
